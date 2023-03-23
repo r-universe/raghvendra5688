@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "func2vis"]
+	path = func2vis
+	url = https://github.com/cran/func2vis
+	shallow = true
+	registered = true
+[submodule "RGBM"]
+	path = RGBM
+	url = https://github.com/cran/RGBM
+	shallow = true
+	registered = true
