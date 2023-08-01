@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "func2vis"]
-	path = func2vis
-	url = https://github.com/cran/func2vis
 [submodule "RGBM"]
 	path = RGBM
 	url = https://github.com/cran/RGBM
+[submodule "func2vis"]
+	path = func2vis
+	url = https://github.com/cran/func2vis
